@@ -6,6 +6,7 @@ This is an exercise project for Customer Purchase Data. A dataset consists of al
 - `Cust_Purch_FakeData.csv`: The Dataset in CSV format
   
 ## Methodology
+- Python
 - Jupyter notebook
 - Numpy, Pandas
   
